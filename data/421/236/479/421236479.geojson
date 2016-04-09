@@ -1,0 +1,54 @@
+{
+  "id": 421236479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"DE",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85682513,
+        102191581,
+        85633111,
+        404227561,
+        101755999,
+        102063773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12834239"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063773,
+            "locality_id":101755999,
+            "macrocounty_id":404227561,
+            "postalcode_id":421236479,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":421236479,
+    "wof:lastmodified":1459810915,
+    "wof:name":"47918",
+    "wof:parent_id":"101755999",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

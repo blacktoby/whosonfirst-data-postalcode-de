@@ -1,0 +1,58 @@
+{
+  "id": 421237529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"DE",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85683271,
+        102191581,
+        85633147,
+        404372631,
+        404228121,
+        404227421,
+        101761349,
+        102071609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12834623"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071609,
+            "localadmin_id":404372631,
+            "locality_id":101761349,
+            "macrocounty_id":404228121,
+            "macroregion_id":404227421,
+            "postalcode_id":421237529,
+            "region_id":85683271
+        }
+    ],
+    "wof:id":421237529,
+    "wof:lastmodified":1459810953,
+    "wof:name":"54662",
+    "wof:parent_id":"101761349",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
