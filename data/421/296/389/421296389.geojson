@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
@@ -10,6 +11,7 @@
     "geom:longitude":0.0,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85682567,
@@ -37,7 +39,7 @@
         }
     ],
     "wof:id":421296389,
-    "wof:lastmodified":1474569691,
+    "wof:lastmodified":1476906355,
     "wof:name":"Kinderstube Zipfelm\u00fctze",
     "wof:parent_id":"101756287",
     "wof:placetype":"postalcode",
