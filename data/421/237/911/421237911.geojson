@@ -2,39 +2,129 @@
   "id": 421237911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"694956",
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"12834815"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00057,
+    "geom:bbox": "7.751043, 50.475715, 7.79433, 50.494751",
+    "geom:latitude": 50.484367,
+    "geom:longitude": 7.773675,
+    "gp:parent_id": "694956",
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "src:geom": "geoplanet",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "12834815"
     },
-    "wof:country":"DE",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":421237911,
-    "wof:lastmodified":1474569604,
-    "wof:name":"56427",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "DE",
+    "wof:geomhash": "fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy": [],
+    "wof:id": 421237911,
+    "wof:lastmodified": 1474569604,
+    "wof:name": "56427",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-de",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    7.751043,
+    50.475715,
+    7.79433,
+    50.494751
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.751043,
+          50.481129
+        ],
+        [
+          7.752089,
+          50.479369
+        ],
+        [
+          7.751974,
+          50.478776
+        ],
+        [
+          7.753477,
+          50.477917
+        ],
+        [
+          7.754666,
+          50.477311
+        ],
+        [
+          7.754634,
+          50.477084
+        ],
+        [
+          7.7541,
+          50.476522
+        ],
+        [
+          7.756547,
+          50.476001
+        ],
+        [
+          7.774587,
+          50.477377
+        ],
+        [
+          7.778956,
+          50.475715
+        ],
+        [
+          7.780127,
+          50.476347
+        ],
+        [
+          7.78404,
+          50.477129
+        ],
+        [
+          7.790992,
+          50.478437
+        ],
+        [
+          7.79433,
+          50.481868
+        ],
+        [
+          7.787746,
+          50.491786
+        ],
+        [
+          7.78587,
+          50.494751
+        ],
+        [
+          7.775202,
+          50.494696
+        ],
+        [
+          7.764367,
+          50.490408
+        ],
+        [
+          7.753551,
+          50.484161
+        ],
+        [
+          7.751453,
+          50.483363
+        ],
+        [
+          7.751043,
+          50.481129
+        ]
+      ]
+    ]
+  }
 }

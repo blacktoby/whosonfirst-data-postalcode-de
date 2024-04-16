@@ -2,53 +2,207 @@
   "id": 421233287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[
-        85682517,
-        102191581,
-        85633111,
-        101806925,
-        102064165
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000899,
+    "geom:bbox": "8.308909, 54.925101, 8.363482, 54.949693",
+    "geom:latitude": 54.935843,
+    "geom:longitude": 8.336737,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "src:geom": "geoplanet",
+    "wof:belongsto": [
+      85682517,
+      102191581,
+      85633111,
+      101806925,
+      102064165
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"12833100"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "12833100"
     },
-    "wof:country":"DE",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102064165,
-            "locality_id":101806925,
-            "postalcode_id":421233287,
-            "region_id":85682517
-        }
+    "wof:country": "DE",
+    "wof:geomhash": "fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102064165,
+        "locality_id": 101806925,
+        "postalcode_id": 421233287,
+        "region_id": 85682517
+      }
     ],
-    "wof:id":421233287,
-    "wof:lastmodified":1474569597,
-    "wof:name":"25996",
-    "wof:parent_id":"101806925",
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 421233287,
+    "wof:lastmodified": 1474569597,
+    "wof:name": "25996",
+    "wof:parent_id": "101806925",
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-de",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    8.308909,
+    54.925101,
+    8.363482,
+    54.949693
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.308909,
+          54.931147
+        ],
+        [
+          8.312973,
+          54.929788
+        ],
+        [
+          8.318046,
+          54.92826
+        ],
+        [
+          8.322338,
+          54.926969
+        ],
+        [
+          8.326111,
+          54.926574
+        ],
+        [
+          8.331828,
+          54.925968
+        ],
+        [
+          8.340183,
+          54.925101
+        ],
+        [
+          8.352455,
+          54.926704
+        ],
+        [
+          8.36259,
+          54.928027
+        ],
+        [
+          8.361528,
+          54.932447
+        ],
+        [
+          8.360761,
+          54.935001
+        ],
+        [
+          8.361183,
+          54.937555
+        ],
+        [
+          8.362524,
+          54.940439
+        ],
+        [
+          8.363482,
+          54.942839
+        ],
+        [
+          8.36318,
+          54.944076
+        ],
+        [
+          8.351645,
+          54.943449
+        ],
+        [
+          8.34796,
+          54.943248
+        ],
+        [
+          8.347829,
+          54.943241
+        ],
+        [
+          8.348163,
+          54.942083
+        ],
+        [
+          8.345208,
+          54.942539
+        ],
+        [
+          8.342664,
+          54.942819
+        ],
+        [
+          8.341663,
+          54.943883
+        ],
+        [
+          8.33986,
+          54.944356
+        ],
+        [
+          8.339766,
+          54.944329
+        ],
+        [
+          8.33975,
+          54.944385
+        ],
+        [
+          8.338213,
+          54.94494
+        ],
+        [
+          8.335908,
+          54.945457
+        ],
+        [
+          8.328352,
+          54.94715
+        ],
+        [
+          8.32684,
+          54.947769
+        ],
+        [
+          8.325591,
+          54.948192
+        ],
+        [
+          8.32475,
+          54.948939
+        ],
+        [
+          8.321132,
+          54.949693
+        ],
+        [
+          8.31651,
+          54.942754
+        ],
+        [
+          8.314118,
+          54.939532
+        ],
+        [
+          8.313346,
+          54.937755
+        ],
+        [
+          8.312528,
+          54.935873
+        ],
+        [
+          8.308909,
+          54.931147
+        ]
+      ]
+    ]
+  }
 }

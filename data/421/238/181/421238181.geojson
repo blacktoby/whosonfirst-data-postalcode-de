@@ -2,39 +2,205 @@
   "id": 421238181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"12628845",
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"12834957"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000658,
+    "geom:bbox": "7.818507, 50.670606, 7.889272, 50.685726",
+    "geom:latitude": 50.677771,
+    "geom:longitude": 7.851502,
+    "gp:parent_id": "12628845",
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "src:geom": "geoplanet",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "12834957"
     },
-    "wof:country":"DE",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":421238181,
-    "wof:lastmodified":1474569604,
-    "wof:name":"57645",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "DE",
+    "wof:geomhash": "fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy": [],
+    "wof:id": 421238181,
+    "wof:lastmodified": 1474569604,
+    "wof:name": "57645",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-de",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    7.818507,
+    50.670606,
+    7.889272,
+    50.685726
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.818507,
+          50.675169
+        ],
+        [
+          7.829294,
+          50.671514
+        ],
+        [
+          7.851521,
+          50.674109
+        ],
+        [
+          7.861314,
+          50.670606
+        ],
+        [
+          7.869929,
+          50.671022
+        ],
+        [
+          7.875207,
+          50.671277
+        ],
+        [
+          7.889272,
+          50.678629
+        ],
+        [
+          7.88806,
+          50.679112
+        ],
+        [
+          7.887912,
+          50.679126
+        ],
+        [
+          7.887637,
+          50.679117
+        ],
+        [
+          7.885178,
+          50.679138
+        ],
+        [
+          7.883613,
+          50.679163
+        ],
+        [
+          7.88163,
+          50.679374
+        ],
+        [
+          7.880031,
+          50.679637
+        ],
+        [
+          7.87655,
+          50.680119
+        ],
+        [
+          7.875642,
+          50.68022
+        ],
+        [
+          7.871122,
+          50.680904
+        ],
+        [
+          7.871123,
+          50.680938
+        ],
+        [
+          7.863694,
+          50.682556
+        ],
+        [
+          7.858175,
+          50.68336
+        ],
+        [
+          7.858182,
+          50.683396
+        ],
+        [
+          7.857957,
+          50.683409
+        ],
+        [
+          7.854369,
+          50.684137
+        ],
+        [
+          7.85058,
+          50.685184
+        ],
+        [
+          7.850504,
+          50.685174
+        ],
+        [
+          7.850255,
+          50.684954
+        ],
+        [
+          7.84989,
+          50.684747
+        ],
+        [
+          7.849412,
+          50.684549
+        ],
+        [
+          7.848963,
+          50.68445
+        ],
+        [
+          7.847493,
+          50.684365
+        ],
+        [
+          7.846196,
+          50.684195
+        ],
+        [
+          7.844179,
+          50.684292
+        ],
+        [
+          7.843315,
+          50.684679
+        ],
+        [
+          7.842387,
+          50.685451
+        ],
+        [
+          7.841494,
+          50.685726
+        ],
+        [
+          7.839309,
+          50.685528
+        ],
+        [
+          7.837718,
+          50.685476
+        ],
+        [
+          7.827419,
+          50.684271
+        ],
+        [
+          7.823378,
+          50.677504
+        ],
+        [
+          7.818507,
+          50.675169
+        ]
+      ]
+    ]
+  }
 }
